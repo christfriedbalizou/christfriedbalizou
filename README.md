@@ -21,10 +21,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3083 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-🌆 Daytime                31023 commits       ████████████████████░░░░░   79.48 % 
-🌃 Evening                3861 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-🌙 Night                  1065 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+🌞 Morning                2875 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+🌆 Daytime                28685 commits       ████████████████████░░░░░   79.37 % 
+🌃 Evening                3593 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+🌙 Night                  986 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
 
 
@@ -34,21 +34,16 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   2 hrs 27 mins       ██████████████░░░░░░░░░░░   57.79 % 
-Markdown                 1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Docker                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 13 mins       █████████████████████████   99.62 % 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-aecom                    4 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
