@@ -16,15 +16,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2053%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3851 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-🌆 Daytime                40175 commits       ████████████████████░░░░░   80.07 % 
-🌃 Evening                4777 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-🌙 Night                  1373 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+🌞 Morning                4827 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+🌆 Daytime                51665 commits       ████████████████████░░░░░   80.46 % 
+🌃 Evening                5961 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+🌙 Night                  1760 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 ```
 
 
@@ -34,16 +34,16 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     9 mins              █████████████████████████   100.00 % 
+YAML                     1 hr 2 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Vim                      9 mins              █████████████████████████   100.00 % 
+Vim                      1 hr 2 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-homelab.git              9 mins              █████████████████████████   100.00 % 
+homelab.git              1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.00 % 
+Linux                    1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 
