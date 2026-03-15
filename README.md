@@ -21,10 +21,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4875 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-🌆 Daytime                51777 commits       ████████████████████░░░░░   80.33 % 
-🌃 Evening                6041 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-🌙 Night                  1764 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+🌞 Morning                5267 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+🌆 Daytime                56383 commits       ████████████████████░░░░░   80.44 % 
+🌃 Evening                6523 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+🌙 Night                  1920 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 ```
 
 
@@ -34,18 +34,18 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     2 hrs 13 mins       █████████████████████████   99.81 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+YAML                     2 hrs 4 mins        █████████████████████████   99.80 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Vim                      2 hrs 13 mins       █████████████████████████   100.00 % 
+Vim                      2 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-homelab.git              2 hrs 8 mins        ████████████████████████░   95.68 % 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+homelab.git              1 hr 58 mins        ████████████████████████░   95.35 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 💻 Operating System: 
-Linux                    2 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
