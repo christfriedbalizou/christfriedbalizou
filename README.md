@@ -16,15 +16,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2057%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3767 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-🌆 Daytime                38078 commits       ████████████████████░░░░░   79.32 % 
-🌃 Evening                4857 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-🌙 Night                  1303 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+🌞 Morning                2991 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+🌆 Daytime                28922 commits       ████████████████████░░░░░   78.61 % 
+🌃 Evening                3885 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+🌙 Night                  995 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
@@ -34,16 +34,16 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     53 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+homelab                  53 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    53 mins             █████████████████████████   100.00 % 
 ```
 
 
