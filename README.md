@@ -16,15 +16,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2042%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3511 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-🌆 Daytime                33736 commits       ████████████████████░░░░░   78.49 % 
-🌃 Evening                4579 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-🌙 Night                  1158 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+🌞 Morning                3097 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+🌆 Daytime                29106 commits       ████████████████████░░░░░   78.12 % 
+🌃 Evening                4052 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+🌙 Night                  1002 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 ```
 
 
@@ -34,17 +34,19 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     38 mins             █████████████████████████   99.63 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+YAML                     34 mins             █████████████████████████   99.59 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+VS Code                  28 mins             █████████████████████░░░░   82.17 % 
+Vim                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
 
 🐱‍💻 Projects: 
-homelab                  38 mins             █████████████████████████   100.00 % 
+homelab                  28 mins             █████████████████████░░░░   82.17 % 
+homelab.git              6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
 
 💻 Operating System: 
-Linux                    38 mins             █████████████████████████   100.00 % 
+Linux                    34 mins             █████████████████████████   100.00 % 
 ```
 
 
