@@ -16,7 +16,7 @@ jobs:
           app-id: "${{ secrets.BOT_APP_ID }}"
           private-key: "${{ secrets.BOT_APP_PRIVATE_KEY }}"
 
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@4bdb9b9a9e565fce50a4edccbb7766e4d836346d # master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
