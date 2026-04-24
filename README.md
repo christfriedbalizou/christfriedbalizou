@@ -21,10 +21,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4490 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-🌆 Daytime                45136 commits       ████████████████████░░░░░   79.27 % 
-🌃 Evening                5776 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-🌙 Night                  1541 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+🌞 Morning                5103 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+🌆 Daytime                52056 commits       ████████████████████░░░░░   79.50 % 
+🌃 Evening                6550 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌙 Night                  1774 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 ```
 
 
@@ -34,16 +34,16 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-homelab.git              6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
