@@ -16,15 +16,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2056%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5103 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-🌆 Daytime                52065 commits       ████████████████████░░░░░   79.50 % 
-🌃 Evening                6550 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-🌙 Night                  1774 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+🌞 Morning                5501 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+🌆 Daytime                56649 commits       ████████████████████░░░░░   79.65 % 
+🌃 Evening                7040 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+🌙 Night                  1928 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 ```
 
 
@@ -34,16 +34,21 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     3 hrs 10 mins       ███████████████░░░░░░░░░░   60.81 % 
+Other                    1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   32.43 % 
+TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 34 mins       █████████████████░░░░░░░░   68.39 % 
+Vim                      1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   31.61 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+homelab.git              5 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 
