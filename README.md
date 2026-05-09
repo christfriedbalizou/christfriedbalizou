@@ -21,10 +21,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4819 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-🌆 Daytime                47709 commits       ████████████████████░░░░░   79.22 % 
-🌃 Evening                6077 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-🌙 Night                  1620 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+🌞 Morning                5639 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+🌆 Daytime                56921 commits       ████████████████████░░░░░   79.56 % 
+🌃 Evening                7057 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+🌙 Night                  1928 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 ```
 
 
@@ -34,16 +34,15 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     2 mins              ████████████████████░░░░░   81.07 % 
-Other                    0 secs              █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+YAML                     2 mins              ████████████████████░░░░░   78.40 % 
+Other                    0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
 
 🔥 Editors: 
-VS Code                  2 mins              ████████████████████░░░░░   81.07 % 
-Unknown Editor           0 secs              █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+VS Code                  2 mins              ████████████████████░░░░░   78.40 % 
+Unknown Editor           0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
 
 🐱‍💻 Projects: 
-homelab                  3 mins              ██████████████████████░░░   87.62 % 
-homelab.git              0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+homelab                  3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Linux                    3 mins              █████████████████████████   100.00 % 
