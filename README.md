@@ -16,7 +16,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2033%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -34,25 +34,25 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     4 hrs 6 mins        ████████████████░░░░░░░░░   63.03 % 
-Just                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-JSON5                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+YAML                     4 hrs 56 mins       ████████████████░░░░░░░░░   65.02 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+JSON5                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 25 mins       █████████████████████████   98.72 % 
-Vim                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+VS Code                  7 hrs 23 mins       ████████████████████████░   97.32 % 
+Vim                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🐱‍💻 Projects: 
-homelab.git              4 hrs 13 mins       ████████████████░░░░░░░░░   65.00 % 
-venv.git                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-dotfiles.git             32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-containers.git           30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+homelab.git              4 hrs 48 mins       ████████████████░░░░░░░░░   63.26 % 
+venv.git                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+containers.git           1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+dotfiles.git             32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Linux                    6 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
