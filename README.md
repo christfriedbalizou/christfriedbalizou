@@ -16,7 +16,36 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2045%20mins-blue?style=flat)
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10165 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+🌆 Daytime                109978 commits      ████████████████████░░░░░   80.89 % 
+🌃 Evening                12031 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+🌙 Night                  3792 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+YAML                     1 hr 43 mins        ████████████████████░░░░░   81.64 % 
+Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Go                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+homelab.git              2 hrs 4 mins        █████████████████████████   98.10 % 
+containers.git           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+
+💻 Operating System: 
+Linux                    2 hrs 7 mins        █████████████████████████   100.00 % 
+```
 
 
 <!--END_SECTION:waka-->
