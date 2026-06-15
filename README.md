@@ -16,7 +16,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2051%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -34,23 +34,23 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     1 hr 39 mins        ███████████████░░░░░░░░░░   58.26 % 
-Python                   40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Just                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+YAML                     4 hrs 34 mins       ███████████████████░░░░░░   74.89 % 
+Python                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       ████████████████████░░░░░   80.99 % 
-Vim                      32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+VS Code                  5 hrs 33 mins       ███████████████████████░░   91.10 % 
+Vim                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 🐱‍💻 Projects: 
-homelab.git              2 hrs 8 mins        ███████████████████░░░░░░   74.93 % 
-Unknown Project          32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-homelab                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+homelab.git              5 hrs 22 mins       ██████████████████████░░░   88.26 % 
+Unknown Project          32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+homelab                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 💻 Operating System: 
-Linux                    2 hrs 51 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 
