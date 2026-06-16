@@ -16,15 +16,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2053%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5955 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-🌆 Daytime                61434 commits       ████████████████████░░░░░   80.37 % 
-🌃 Evening                6931 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-🌙 Night                  2115 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+🌞 Morning                5972 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+🌆 Daytime                61492 commits       ████████████████████░░░░░   80.33 % 
+🌃 Evening                6970 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+🌙 Night                  2117 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
 
 
@@ -34,23 +34,23 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     4 hrs 34 mins       ███████████████████░░░░░░   74.89 % 
-Python                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+YAML                     6 hrs 35 mins       ████████████████████░░░░░   81.16 % 
+Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 33 mins       ███████████████████████░░   91.10 % 
-Vim                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+VS Code                  7 hrs 35 mins       ███████████████████████░░   93.32 % 
+Vim                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 
 🐱‍💻 Projects: 
-homelab.git              5 hrs 22 mins       ██████████████████████░░░   88.26 % 
-Unknown Project          32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-homelab                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+homelab.git              7 hrs 24 mins       ███████████████████████░░   91.19 % 
+Unknown Project          32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+homelab                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 💻 Operating System: 
-Linux                    6 hrs 5 mins        █████████████████████████   100.00 % 
+Linux                    8 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
