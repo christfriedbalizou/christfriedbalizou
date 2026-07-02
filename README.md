@@ -16,15 +16,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2050%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5205 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-🌆 Daytime                52376 commits       ████████████████████░░░░░   80.13 % 
-🌃 Evening                5987 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-🌙 Night                  1797 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+🌞 Morning                4359 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+🌆 Daytime                43051 commits       ████████████████████░░░░░   79.84 % 
+🌃 Evening                5032 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+🌙 Night                  1479 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 ```
 
 
@@ -34,22 +34,22 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   36.80 % 
-YAML                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-JSON                     39 mins             █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-Markdown                 34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+YAML                     1 hr 35 mins        ████████████████████░░░░░   79.04 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 58 mins       █████████████████████████   98.25 % 
-Vim                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+VS Code                  1 hr 57 mins        ████████████████████████░   97.37 % 
+Vim                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🐱‍💻 Projects: 
-homelab.git              1 hr 47 mins        ███████████████░░░░░░░░░░   59.04 % 
-n8n.git                  1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   39.22 % 
-plugins                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+homelab.git              1 hr 42 mins        █████████████████████░░░░   85.42 % 
+n8n.git                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+plugins                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 💻 Operating System: 
-Linux                    3 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    2 hrs               █████████████████████████   100.00 % 
 ```
 
 
