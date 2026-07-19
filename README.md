@@ -16,15 +16,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2057%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4554 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-🌆 Daytime                45254 commits       ████████████████████░░░░░   79.94 % 
-🌃 Evening                5246 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-🌙 Night                  1555 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+🌞 Morning                4729 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+🌆 Daytime                47511 commits       ████████████████████░░░░░   80.10 % 
+🌃 Evening                5439 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+🌙 Night                  1635 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 ```
 
 
@@ -34,16 +34,24 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 49 mins       ███████████████░░░░░░░░░░   60.74 % 
+TypeScript               48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+gitignore                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex CLI                4 hrs 1 min         ██████████████████████░░░   86.64 % 
+VS Code                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Vim                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ledgerlink.git           4 hrs 38 mins       █████████████████████████   99.64 % 
+plugins                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+homelab.git              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 
