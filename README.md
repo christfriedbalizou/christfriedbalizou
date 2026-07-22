@@ -16,15 +16,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2017%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5443 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-🌆 Daytime                54694 commits       ████████████████████░░░░░   80.10 % 
-🌃 Evening                6259 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-🌙 Night                  1889 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+🌞 Morning                6528 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+🌆 Daytime                66429 commits       ████████████████████░░░░░   80.27 % 
+🌃 Evening                7509 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+🌙 Night                  2289 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
 
 
@@ -34,24 +34,24 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 4 hrs 29 mins       █████████████░░░░░░░░░░░░   52.29 % 
-TypeScript               2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Markdown                 4 hrs 35 mins       █████████████░░░░░░░░░░░░   51.10 % 
+TypeScript               2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-Codex CLI                7 hrs 29 mins       ██████████████████████░░░   87.10 % 
-Vim                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Codex CLI                7 hrs 42 mins       █████████████████████░░░░   85.80 % 
+Vim                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🐱‍💻 Projects: 
-ledgerlink.git           8 hrs 31 mins       █████████████████████████   99.15 % 
-homelab.git              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-plugins                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+ledgerlink.git           8 hrs 44 mins       ████████████████████████░   97.33 % 
+homelab.git              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+plugins                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Linux                    8 hrs 35 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 
