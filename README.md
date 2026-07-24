@@ -16,8 +16,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2017%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -34,24 +32,24 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 4 hrs 35 mins       █████████████░░░░░░░░░░░░   51.10 % 
-TypeScript               2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Markdown                 8 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.87 % 
+TypeScript               5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.52 % 
+YAML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔥 Editors: 
-Codex CLI                7 hrs 42 mins       █████████████████████░░░░   85.80 % 
-Vim                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Codex CLI                15 hrs 44 mins      ███████████████████████░░   90.30 % 
+Vim                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🐱‍💻 Projects: 
-ledgerlink.git           8 hrs 44 mins       ████████████████████████░   97.33 % 
-homelab.git              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-plugins                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+ledgerlink.git           16 hrs 40 mins      ████████████████████████░   95.59 % 
+homelab.git              45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+plugins                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Linux                    8 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    17 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 
