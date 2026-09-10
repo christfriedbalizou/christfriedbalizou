@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs%201%20min-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5487 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-🌆 Daytime                54787 commits       ████████████████████░░░░░   79.96 % 
-🌃 Evening                6327 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-🌙 Night                  1920 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+🌞 Morning                6701 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+🌆 Daytime                68713 commits       ████████████████████░░░░░   80.31 % 
+🌃 Evening                7761 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+🌙 Night                  2388 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 ```
 
 
@@ -36,22 +36,40 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              ███████████████████████░░   90.52 % 
+YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex CLI                0 secs              ███████████████████████░░   90.44 % 
+Vim                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+homelab.git              1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 0 secs (90.52%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 53,970 Input Tokens, 1,703 Output Tokens
+
+💵 $0.87 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+GPT                      1 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 8,364 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
