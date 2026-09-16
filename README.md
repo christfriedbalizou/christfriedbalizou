@@ -23,10 +23,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5638 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-🌆 Daytime                57072 commits       ████████████████████░░░░░   79.92 % 
-🌃 Evening                6678 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-🌙 Night                  2026 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+🌞 Morning                6969 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+🌆 Daytime                71174 commits       ████████████████████░░░░░   80.11 % 
+🌃 Evening                8187 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+🌙 Night                  2518 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 
 
@@ -36,44 +36,44 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   31.32 % 
-Python                   1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-YAML                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Docker                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Makefile                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Markdown                 1 hr 56 mins        ██████████░░░░░░░░░░░░░░░   38.86 % 
+Python                   1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+YAML                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Docker                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Makefile                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 
 🔥 Editors: 
-Codex CLI                3 hrs 35 mins       ██████████████████████░░░   86.23 % 
-Vim                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Codex CLI                4 hrs 23 mins       ██████████████████████░░░   87.78 % 
+Vim                      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 
 🐱‍💻 Projects: 
-translator.git           3 hrs 24 mins       ████████████████████░░░░░   81.82 % 
-homelab.git              24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-agents.git               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+translator.git           4 hrs 14 mins       █████████████████████░░░░   84.82 % 
+homelab.git              24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+agents.git               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 
 💻 Operating System: 
-Linux                    4 hrs 10 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 10 mins (99.96%)
+⏱ AI Coding Time: 4 hrs 59 mins (99.97%)
 
-✍️ 3,252 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,323 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,513,553 Input Tokens, 210,333 Output Tokens
+🔤 2,029,366 Input Tokens, 261,264 Output Tokens
 
-💵 $31.54 Estimated AI Cost This Week
+💵 $36.40 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 51 AI Prompts
+🧠 9 AI Sessions, 68 AI Prompts
 
-GPT                      2,071 lines         ████████████████░░░░░░░░░   62.74 % 
-Codex-Cli                1,230 lines         █████████░░░░░░░░░░░░░░░░   37.26 % 
+GPT                      3,148 lines         ██████████████████░░░░░░░   71.90 % 
+Codex-Cli                1,230 lines         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,172 characters per prompt
+📚 Verbose Prompter — average 2,460 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
