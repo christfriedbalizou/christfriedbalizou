@@ -23,10 +23,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                10387 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-🌆 Daytime                106781 commits      ████████████████████░░░░░   80.25 % 
-🌃 Evening                12162 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-🌙 Night                  3732 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+🌞 Morning                10843 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+🌆 Daytime                113387 commits      ████████████████████░░░░░   80.58 % 
+🌃 Evening                12576 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+🌙 Night                  3910 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
@@ -36,38 +36,37 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    22 mins             █████████████████████████   100.00 % 
+Other                    3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex CLI                21 mins             ████████████████████████░   94.78 % 
-Vim                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Codex CLI                3 mins              ████████████████████████░   95.86 % 
+Vim                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🐱‍💻 Projects: 
-translator.git           18 mins             █████████████████████░░░░   83.66 % 
-homelab.git              3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+homelab.git              3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    22 mins             █████████████████████████   100.00 % 
+Linux                    3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (100.0%)
+⏱ AI Coding Time: 3 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 147,491 Input Tokens, 29,259 Output Tokens
+🔤 70,599 Input Tokens, 5,986 Output Tokens
 
-💵 $4.14 Estimated AI Cost This Week
+💵 $0.53 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 7 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 7,312 characters per prompt
+📚 Verbose Prompter — average 11,128 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
