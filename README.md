@@ -16,17 +16,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-130%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-130%20hrs%2039%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3209 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-🌆 Daytime                29278 commits       ████████████████████░░░░░   78.63 % 
-🌃 Evening                3692 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-🌙 Night                  1056 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+🌞 Morning                2979 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+🌆 Daytime                26872 commits       ████████████████████░░░░░   78.33 % 
+🌃 Evening                3413 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+🌙 Night                  1041 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
@@ -36,50 +36,50 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.98 % 
-Other                    2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-YAML                     1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Python                   1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Other                    2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.41 % 
+YAML                     1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Markdown                 1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Python                   45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 🔥 Editors: 
-Codex CLI                6 hrs 1 min         █████████████████░░░░░░░░   66.22 % 
-Codex Vscode             2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Vim                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Codex Vscode             3 hrs 53 mins       █████████████░░░░░░░░░░░░   53.45 % 
+Codex CLI                2 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.27 % 
+Vim                      44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-translator.git           3 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   40.96 % 
-homelab.git              3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.99 % 
-actions.git              1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-agents.git               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+homelab.git              3 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.51 % 
+translator.git           2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.62 % 
+actions.git              52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+containers.git           23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+agents.git               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 💻 Operating System: 
-Linux                    9 hrs 5 mins        █████████████████████████   100.00 % 
+Linux                    7 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 53 mins (97.89%)
+⏱ AI Coding Time: 7 hrs 5 mins (97.37%)
 
-✍️ 2,711 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,491 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,877,993 Input Tokens, 512,364 Output Tokens
+🔤 4,058,888 Input Tokens, 434,916 Output Tokens
 
-💵 $84.57 Estimated AI Cost This Week
+💵 $158.89 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 105 AI Prompts
+🧠 18 AI Sessions, 99 AI Prompts
 
-GPT                      2,739 lines         █████████████████████████   100.00 % 
+GPT                      1,517 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,274 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 1,383 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
