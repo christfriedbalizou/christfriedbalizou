@@ -23,10 +23,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4512 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-🌆 Daytime                41994 commits       ████████████████████░░░░░   78.17 % 
-🌃 Evening                5381 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-🌙 Night                  1835 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+🌞 Morning                3142 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+🌆 Daytime                27834 commits       ███████████████████░░░░░░   77.32 % 
+🌃 Evening                3812 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+🌙 Night                  1211 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 ```
 
 
@@ -36,46 +36,46 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     5 hrs 31 mins       ███████████░░░░░░░░░░░░░░   44.43 % 
-Python                   2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Markdown                 2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-TypeScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+YAML                     5 hrs 1 min         ████████████░░░░░░░░░░░░░   46.31 % 
+Python                   2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Markdown                 1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+TypeScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔥 Editors: 
-Codex Vscode             11 hrs 40 mins      ███████████████████████░░   93.90 % 
-Vim                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Codex Vscode             10 hrs 7 mins       ███████████████████████░░   93.33 % 
+Vim                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 🐱‍💻 Projects: 
-homelab.git              6 hrs 4 mins        ████████████░░░░░░░░░░░░░   48.86 % 
-translator.git           4 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.88 % 
-containers.git           1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+homelab.git              5 hrs 54 mins       ██████████████░░░░░░░░░░░   54.45 % 
+translator.git           3 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.88 % 
+containers.git           1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Linux                    12 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 24 mins (99.81%)
+⏱ AI Coding Time: 10 hrs 49 mins (99.79%)
 
-✍️ 3,197 lines written by AI, 1 lines written by hand (99.97% AI-written)
+✍️ 2,856 lines written by AI, 1 lines written by hand (99.96% AI-written)
 
-🔤 8,511,846 Input Tokens, 1,192,748 Output Tokens
+🔤 7,273,824 Input Tokens, 1,027,083 Output Tokens
 
-💵 $564.54 Estimated AI Cost This Week
+💵 $489.37 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 153 AI Prompts
+🧠 16 AI Sessions, 133 AI Prompts
 
-GPT                      3,513 lines         █████████████████████████   99.27 % 
-Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+GPT                      3,170 lines         █████████████████████████   99.19 % 
+Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 1,791 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 1,699 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
