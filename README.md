@@ -23,10 +23,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3142 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-🌆 Daytime                27834 commits       ███████████████████░░░░░░   77.32 % 
-🌃 Evening                3812 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-🌙 Night                  1211 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+🌞 Morning                4224 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+🌆 Daytime                40465 commits       ████████████████████░░░░░   78.95 % 
+🌃 Evening                4762 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+🌙 Night                  1805 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 ```
 
 
@@ -36,47 +36,47 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     5 hrs 1 min         ████████████░░░░░░░░░░░░░   46.31 % 
-Python                   2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Markdown                 1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-TypeScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+YAML                     3 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   36.77 % 
+Python                   2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+TypeScript               1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Markdown                 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🔥 Editors: 
-Codex Vscode             10 hrs 7 mins       ███████████████████████░░   93.33 % 
-Vim                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Codex Vscode             8 hrs 15 mins       ████████████████████████░   94.36 % 
+Vim                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 
 🐱‍💻 Projects: 
-homelab.git              5 hrs 54 mins       ██████████████░░░░░░░░░░░   54.45 % 
-translator.git           3 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.88 % 
-containers.git           1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+homelab.git              3 hrs 48 mins       ███████████░░░░░░░░░░░░░░   43.60 % 
+translator.git           3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.71 % 
+containers.git           1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Linux                    10 hrs 50 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 49 mins (99.79%)
+⏱ AI Coding Time: 8 hrs 45 mins (100.0%)
 
-✍️ 2,856 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 2,485 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,273,824 Input Tokens, 1,027,083 Output Tokens
+🔤 6,817,275 Input Tokens, 927,651 Output Tokens
 
-💵 $489.37 Estimated AI Cost This Week
+💵 $432.67 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 133 AI Prompts
+🧠 14 AI Sessions, 95 AI Prompts
 
-GPT                      3,170 lines         █████████████████████████   99.19 % 
-Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+GPT                      2,798 lines         █████████████████████████   99.08 % 
+Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 1,699 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,935 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
