@@ -23,10 +23,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8093 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-🌆 Daytime                77479 commits       ████████████████████░░░░░   78.53 % 
-🌃 Evening                9420 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-🌙 Night                  3665 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+🌞 Morning                10036 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+🌆 Daytime                96568 commits       ████████████████████░░░░░   78.65 % 
+🌃 Evening                11612 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+🌙 Night                  4573 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 ```
 
 
@@ -36,22 +36,45 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 4 hrs 8 mins        █████████████████████░░░░   84.49 % 
+YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      4 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+projects.git             4 hrs 6 mins        █████████████████████░░░░   83.59 % 
+homelab.git              31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+n8n.git                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+isis.git                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+christfried              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 54 mins (100.0%)
+
+✍️ 1,629 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 3,469,362 Input Tokens, 474,790 Output Tokens
+
+💵 $31.03 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 80 AI Prompts
+
+GPT                      1,665 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,101 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
