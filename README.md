@@ -23,10 +23,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                10036 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-🌆 Daytime                96568 commits       ████████████████████░░░░░   78.65 % 
-🌃 Evening                11612 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-🌙 Night                  4573 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+🌞 Morning                11395 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+🌆 Daytime                110683 commits      ████████████████████░░░░░   78.80 % 
+🌃 Evening                13140 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+🌙 Night                  5239 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 ```
 
 
@@ -36,43 +36,42 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 4 hrs 8 mins        █████████████████████░░░░   84.49 % 
-YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Markdown                 3 hrs 25 mins       ████████████████████████░   96.87 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Vim                      4 hrs 54 mins       █████████████████████████   100.00 % 
+Vim                      3 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-projects.git             4 hrs 6 mins        █████████████████████░░░░   83.59 % 
-homelab.git              31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-n8n.git                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-isis.git                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-christfried              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+projects.git             3 hrs 16 mins       ███████████████████████░░   92.89 % 
+n8n.git                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+isis.git                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+agents.git               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+homelab.git              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Linux                    4 hrs 54 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 54 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 32 mins (100.0%)
 
-✍️ 1,629 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,200 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,469,362 Input Tokens, 474,790 Output Tokens
+🔤 2,997,844 Input Tokens, 389,061 Output Tokens
 
-💵 $31.03 Estimated AI Cost This Week
+💵 $30.22 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 80 AI Prompts
+🧠 8 AI Sessions, 54 AI Prompts
 
-GPT                      1,665 lines         █████████████████████████   100.00 % 
+GPT                      1,209 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,101 characters per prompt
+📄 Detailed Prompter — average 1,083 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
